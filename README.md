@@ -1,3 +1,5 @@
+Customization of the same [GATK4 workflow](https://github.com/gatk-workflows/seq-format-validation)
+
 # seq-validation
 Workflows for validating sequence data
 ### validate-bam :
